@@ -13,7 +13,4 @@ The app handles:
 * Adds new to dos
 * Log out
 
-The Provider package is used to manage app state.# do_to_list_flutter
-
-
 If you want to outsource your Flutter project, email us on info@indylogix.com
