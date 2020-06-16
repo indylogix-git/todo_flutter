@@ -2,11 +2,6 @@
 
 This is an example to do app built in Flutter.
 
-
-|![Register Screen](https://github.com/devinsays/flutter_todo/raw/master/docs/register.jpg)| ![Login Screen](https://github.com/devinsays/flutter_todo/raw/master/docs/login.jpg)|
-|--|--|
-![To Do List](https://github.com/devinsays/flutter_todo/raw/master/docs/todo-list.jpg)|![Add To Do](https://github.com/devinsays/flutter_todo/raw/master/docs/add-todo.jpg)
-
 The app handles:
 
 * Login
